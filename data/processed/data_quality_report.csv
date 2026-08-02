@@ -1,0 +1,11 @@
+check,failed_records,status
+missing_critical_values,0,PASS
+duplicate_order_item_ids,0,PASS
+duplicate_full_rows,0,PASS
+invalid_late_risk_values,0,PASS
+negative_shipping_days,0,PASS
+negative_sales,0,PASS
+invalid_dates,0,PASS
+shipping_before_order_date,0,PASS
+late_risk_inconsistency,0,PASS
+unknown_delivery_timing,0,PASS

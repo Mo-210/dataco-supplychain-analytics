@@ -1,0 +1,54 @@
+column,missing_values,missing_rate_pct
+Product Description,180519,100.0
+Order Zipcode,155679,86.2397
+Customer Lname,8,0.0044
+Customer Zipcode,3,0.0017
+Benefit per order,0,0.0
+Category Id,0,0.0
+Category Name,0,0.0
+Customer City,0,0.0
+Customer Country,0,0.0
+Customer Email,0,0.0
+Customer Fname,0,0.0
+Customer Id,0,0.0
+Customer Password,0,0.0
+Customer Segment,0,0.0
+Customer State,0,0.0
+Customer Street,0,0.0
+Days for shipment (scheduled),0,0.0
+Days for shipping (real),0,0.0
+Delivery Status,0,0.0
+Department Id,0,0.0
+Department Name,0,0.0
+Late_delivery_risk,0,0.0
+Latitude,0,0.0
+Longitude,0,0.0
+Market,0,0.0
+Order City,0,0.0
+Order Country,0,0.0
+Order Customer Id,0,0.0
+Order Id,0,0.0
+Order Item Cardprod Id,0,0.0
+Order Item Discount,0,0.0
+Order Item Discount Rate,0,0.0
+Order Item Id,0,0.0
+Order Item Product Price,0,0.0
+Order Item Profit Ratio,0,0.0
+Order Item Quantity,0,0.0
+Order Item Total,0,0.0
+Order Profit Per Order,0,0.0
+Order Region,0,0.0
+Order State,0,0.0
+Order Status,0,0.0
+Product Card Id,0,0.0
+Product Category Id,0,0.0
+Product Image,0,0.0
+Product Name,0,0.0
+Product Price,0,0.0
+Product Status,0,0.0
+Sales,0,0.0
+Sales per customer,0,0.0
+Shipping Mode,0,0.0
+Type,0,0.0
+order date (DateOrders),0,0.0
+shipping date (DateOrders),0,0.0
